@@ -1,16 +1,16 @@
 # Important Dates
 
 Paper Abstracts
-: June 21, 2023
+: Wait for the decision
 
 Paper Submissions
-: June 26, 2023
+: Wait for the decision
 
 Author Notifications
-: July 30, 2023
+: Wait for the decision
 
 Camera-Ready Deadline
-: August 15, 2023
+: Wait for the decision
 
 ## Symposium
 

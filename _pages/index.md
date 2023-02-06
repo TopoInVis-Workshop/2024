@@ -5,6 +5,8 @@ title: Home
 
 # TopoInVis 2023 - Topological Data Analysis and Visualization
 
+<img id="teasers" src="assets/teaser.png" />
+
 Topological Data Analysis has become, over the last few years, an established 
 framework for the extraction and analysis of subtle structural patterns in complex data. 
 It has been successfully applied in a variety of application fields, including 
@@ -16,7 +18,6 @@ Typical challenges of topology-based techniques include dealing with large,
 complex, and time-dependent data, characterizing noise and uncertainty, as well 
 as developing efficient and robust numerical methods.
 
-<img id="teasers" src="assets/teaser.png" />
 
 The IEEE VIS Workshop on Topological Data Analysis and Visualization aims at being 
 an inclusive forum for the fast dissemination of the latest results in theory, 
