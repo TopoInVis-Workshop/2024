@@ -10,17 +10,19 @@ title: Organization
 <div class="left">
 ## Workshop Chairs
 
-Talha Bin Masood
-: Link&ouml;ping University
+Lin Yan
+: Argonne National Laboratory
 
 Vijay Natarajan
 : Indian Institute of Science, Bangalore
 
+
+Guoning Chen
+
+: University of Houston
+
 Paul Rosen
 : University of South Florida
-
-Julien Tierny
-: CNRS - Sorbonne Universit&eacute;
 
 </div>
 

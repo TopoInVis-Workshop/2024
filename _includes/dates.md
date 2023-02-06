@@ -1,16 +1,16 @@
 # Important Dates
 
 Paper Abstracts
-: Wait for the decision
+: To be determined
 
 Paper Submissions
-: Wait for the decision
+: To be determined
 
 Author Notifications
-: Wait for the decision
+: To be determined
 
 Camera-Ready Deadline
-: Wait for the decision
+: To be determined
 
 ## Symposium
 
