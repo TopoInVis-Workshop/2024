@@ -1,7 +1,7 @@
 # Important Dates
 
 Paper Abstracts
-: To be determined
+: <em>To be determined</em>
 
 Paper Submissions
 : To be determined
