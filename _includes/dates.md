@@ -4,7 +4,7 @@ Paper Abstracts
 : June 21, 2023
 
 Paper Submissions
-: <del>June 25, 2023</del> June 28, 2023
+: June 26, 2023
 
 Author Notifications
 : July 30, 2023
