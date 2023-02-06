@@ -1,7 +1,7 @@
 # Important Dates
 
 Paper Abstracts
-: <em>To be determined</em>
+: <font color="green"><em>To be determined</em></font>
 
 Paper Submissions
 : To be determined
