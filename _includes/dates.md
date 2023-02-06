@@ -1,17 +1,17 @@
 # Important Dates
 
 Paper Abstracts
-: June 21, 2022
+: June 21, 2023
 
 Paper Submissions
-: <del>June 25, 2022</del> June 28, 2022
+: <del>June 25, 2023</del> June 28, 2023
 
 Author Notifications
-: July 30, 2022
+: July 30, 2023
 
 Camera-Ready Deadline
-: August 15, 2022
+: August 15, 2023
 
 ## Symposium
 
-**October 17, 2022**
+**October 17, 2023**
