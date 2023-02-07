@@ -16,9 +16,7 @@ Lin Yan
 Vijay Natarajan
 : Indian Institute of Science, Bangalore
 
-
 Guoning Chen
-
 : University of Houston
 
 Paul Rosen
