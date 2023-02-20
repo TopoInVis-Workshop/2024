@@ -29,11 +29,8 @@ with a clear will to open to other members of the visualization community potent
 interested in topological methods, or experts in topological methods from other communities 
 willing to experiment with interactive and visual applications.
 
-## New in 2023
-
-This year, in addition to full paper presentations, we will host a session of lightning 
-talks (approx. 5 minutes) for early-career researchers (Ph.D. students, post-docs, etc.) 
-to advertise their work to the community.
+In addition to **full paper** presentations, we will host a session of **lightning talks** for 
+early-career researchers (Ph.D. students, post-docs, etc.) to advertise their work to the community.
 
 ## Scope
 
@@ -67,4 +64,11 @@ Accepted papers will be published in the IEEE Xplore Digital Library.
 
 ## Important Dates
 
-To be determined
+Important Dates:
+* June 21, 2023: abstract deadline for full papers
+* June 26, 2023: submission deadline for full papers
+* July 31, 2023: author notification
+* August 15, 2023: submission deadline for early-career lightning talk abstracts (500 words)
+* October 22-27, 2023: Workshop at IEEE VIS
+All deadlines are in Anywhere on Eath (AoE) time zone.
+
