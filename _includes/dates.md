@@ -1,17 +1,17 @@
 # Important Dates
 
 Paper Abstracts
-: <font color="#800080"><em>To be determined</em></font>
+: <font color="#800080"><em>June 21, 2023</em></font>
 
 Paper Submissions
-: To be determined
+: June 26, 2023
 
 Author Notifications
-: To be determined
+: July 31, 2023
 
 Camera-Ready Deadline
-: To be determined
+: August 15, 2023
 
 ## Symposium
 
-**October 17, 2023**
+**October 22-27, 2023**

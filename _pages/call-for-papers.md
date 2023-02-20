@@ -70,5 +70,6 @@ Important Dates:
 * July 31, 2023: author notification
 * August 15, 2023: submission deadline for early-career lightning talk abstracts (500 words)
 * October 22-27, 2023: Workshop at IEEE VIS
+
 All deadlines are in Anywhere on Eath (AoE) time zone.
 
