@@ -10,24 +10,61 @@ title: Organization
 <div class="left">
 ## Workshop Chairs
 
-Lin Yan
-: Argonne National Laboratory
+### Overall Chairs
 
-Vijay Natarajan
-: Indian Institute of Science, Bangalore
+Paul Rosen
+: University of Utah
 
 Guoning Chen
 : University of Houston
 
-Paul Rosen
-: University of Utah
+### Paper Chairs
+
+Vijay Natarajan
+: Indian Institute of Science, Bangalore
+
+Federico Iuricich
+: Clemson University
+  
+### Communications Chair
+  
+Lin Yan
+: Argonne National Laboratory
+
+
+
 
 </div>
 
 <div class="right">
 ## Steering Committee
 
-To be determined
+Bei Wang (chair)
+: University of Utah
+
+Paul Rosen (co-chair)
+: University of Utah
+
+Roxana Bujack
+: Los Alamos National Laboratory
+  
+Guoning Chen
+: University of Houston
+
+Leila De Floriani
+: University of Maryland
+
+Tobias Günther
+: Friedrich-Alexander-Universität
+  
+Vijay	Natarajan
+: Indian Institute of Science, Bangalore
+
+Filip Sadlo
+: Heidelberg University
+  
+Julien Tierny
+: Sorbonne Universite
 
 </div>
 <div class="right">
