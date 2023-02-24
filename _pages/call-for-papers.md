@@ -43,6 +43,7 @@ Relevant topics include (but are not limited to):
   - Ensemble data
   - Uncertain data
 * Topological methods for data science (dimensionality reduction, clustering, etc.)
+* Topological methods and machine learning
 * Computational methods for topological data analysis and visualization
 * Software systems for topological data analysis and visualization
 * Visual analytic frameworks relying on topological methods
