@@ -7,7 +7,7 @@ title: Call for Papers
 
 Contact: <topoinvis@ieeevis.org>
 
-Topological Data Analysis has become, over the last few years, an established framework 
+Topological methods have become, over the last few years, an established framework 
 for the extraction and analysis of subtle structural patterns in complex data. It has been 
 successfully applied in a variety of application fields, including quantum chemistry, 
 astrophysics, fluid dynamics, combustion, material sciences, biology, and data science. 
@@ -70,7 +70,7 @@ Important Dates:
 * June 26, 2023: submission deadline for full papers
 * July 31, 2023: author notification
 * August 15, 2023: submission deadline for early-career lightning talk abstracts (500 words)
-* October 22-27, 2023: Workshop at IEEE VIS
+* October 23, 2023: Workshop at IEEE VIS
 
 All deadlines are in Anywhere on Eath (AoE) time zone.
 
