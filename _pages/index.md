@@ -7,7 +7,7 @@ title: Home
 
 <img id="teasers" src="assets/teaser.png" />
 
-Topological Data Analysis has become, over the last few years, an established 
+Topological methods have become, over the last few years, an established 
 framework for the extraction and analysis of subtle structural patterns in complex data. 
 It has been successfully applied in a variety of application fields, including 
 quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, 
