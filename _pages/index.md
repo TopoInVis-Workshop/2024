@@ -5,7 +5,6 @@ title: Home
 
 # TopoInVis 2023 - Topological Data Analysis and Visualization
 
-<img id="teasers" src="assets/teaser.png" />
 
 Topological methods have become, over the last few years, an established 
 framework for the extraction and analysis of subtle structural patterns in complex data. 
