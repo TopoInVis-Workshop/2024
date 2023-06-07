@@ -1,5 +1,5 @@
 # TopoInVis
-TopoInVis 2022 workshop website
+TopoInVis 2023 workshop website
 
 ## Build instructions
 
