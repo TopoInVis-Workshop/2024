@@ -20,19 +20,9 @@ references. The submissions will be reviewed following a single-blind review
 process by the members of our [international program committee](organization.html).
 
 The submission of abstract is required prior to the submission 
-of a paper. The deadlines for the submission are given below. Please note that the 
-paper submission deadline is now extended to June 28. If you notice a discrepency 
-in the manuscript submission deadline on the PCS submission portal, kindly ignore 
-it. The time and date specified here on the website are correct. 
+of a paper.
 
 ## Abstract Submission for Early Career Lightning Talks
 
-For submission of abstracts for early-career lightning talks, please follow 
-[this link](https://forms.gle/YpkvNcDH1FyusqZX9) to submit the abstract and 
-answer a few questions about yourself.
-
-# Important Dates
-
-{::options parse_block_html="true" /}
-
-To be determined
+For submission of abstracts for early-career lightning talks, please watch
+[this link](https://forms.gle/YpkvNcDH1FyusqZX9) for instructions to submit the abstract.
