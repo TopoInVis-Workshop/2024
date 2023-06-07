@@ -67,7 +67,7 @@ Julien Tierny
 : Sorbonne Universite
 
 </div>
-<div class="right">
+<div class="left">
 ## Program Committee
 
 Divya Banesh
@@ -109,7 +109,11 @@ Talha Bin Masood
 Vanessa Robins
 : Australian National University
 
-##  
+</div>
+  
+<div class="right">
+## &nbsp;
+  
 Filip Sadlo
 : Heidelberg University
   
