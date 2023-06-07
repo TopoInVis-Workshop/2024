@@ -70,8 +70,82 @@ Julien Tierny
 <div class="right">
 ## Program Committee
 
-To be determined
+Divya Banesh
+: Los Alamos National Laboratory
 
+Roxana Bujack
+: Los Alamos National Laboratory
+  
+Hamish Carr
+: University of Leeds
+
+Leila De Floriani
+: The University of Maryland
+
+Harish Doraiswamy
+: Microsoft Research
+  
+Ulderico Fugacci
+: National Research Council
+
+Christoph Garth
+: University of Kaiserslautern
+  
+Hanqi Guo
+: Ohio State University
+  
+Tobias Günther
+: University of Erlangen–Nuremberg
+
+Ingrid Hotz
+: Linköping University
+  
+Wiebke Koepp
+: Lawrence Berkeley National Laboratory
+  
+Talha Bin Masood
+: Linköping University
+  
+Vanessa Robins
+: Australian National University
+  
+Filip Sadlo
+: Heidelberg University
+  
+Martina Scolamiero
+: KTH Royal Institute of Technology
+
+Jaya Sreevalsan-Nair
+: International Institute of Information Technology
+  
+Raghavendra Sridharamurthy
+: Univeristy of Utah
+  
+Brian Summa
+: Tulane University
+  
+Holger Theisel
+: University of Magdeburg
+  
+Julien Tierny
+: Sorbonne Universite
+  
+Bei Wang 
+: University of Utah
+ 
+Tino Weinkauf
+: KTH Royal Institute of Technology
+  
+Alexander Wiebel
+: Hochschule Worms University of Applied Sciences 
+  
+Eugene Zhang
+: Oregon State University
+
+Yue Zhang
+: Oregon State University
+ 
+ 
 </div>
 
 
