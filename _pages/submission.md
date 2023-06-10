@@ -24,5 +24,4 @@ of a paper.
 
 ## Abstract Submission for Early Career Lightning Talks
 
-For submission of abstracts for early-career lightning talks, please watch
-[this link](https://forms.gle/YpkvNcDH1FyusqZX9) for instructions to submit the abstract.
+For submission of abstracts for early-career lightning talks, please watch this space for further instructions to submit the abstract.
