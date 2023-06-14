@@ -5,6 +5,12 @@ title: Program
 
 # Program
 
+**Date (TBD)**
+
+Location: TBD
+
+---
+
 <table class="program">
   <tr>
     <td> time TBD </td>
