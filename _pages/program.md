@@ -13,13 +13,13 @@ Location: TBD
 
 <table class="program">
   <tr>
-    <td> time TBD </td>
+    <td> time: TBD </td>
     <td>
       Opening Remarks<br/>
     </td>
   </tr>
   <tr>
-    <td> time TBD </td>
+    <td> time: TBD </td>
     <td>
       <h4>Keynote Presentation
       </h4>
@@ -27,11 +27,11 @@ Location: TBD
   </tr>
 </table>
 
-**<Title TBD>**
+**<Title: TBD>**
 
 _Professor Vanessa Robins, Australian National University_
 
-Abstract TBD
+Abstract: TBD
 
 #### Speaker
 
