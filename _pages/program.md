@@ -13,13 +13,13 @@ Location: TBD
 
 <table class="program">
   <tr>
-    <td> time: TBD </td>
+    <td> Time: TBD </td>
     <td>
       Opening Remarks<br/>
     </td>
   </tr>
   <tr>
-    <td> time: TBD </td>
+    <td> Time: TBD </td>
     <td>
       <h4>Keynote Presentation
       </h4>
