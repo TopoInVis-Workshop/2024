@@ -67,7 +67,7 @@ Accepted papers will be published in the IEEE Xplore Digital Library.
 
 Important Dates:
 * June 21, 2023: abstract deadline for full papers
-* June 26, 2023: submission deadline for full papers
+* <del>June 26, 2023</del> June 29, 2023: submission deadline for full papers
 * July 31, 2023: author notification
 * August 15, 2023: submission deadline for early-career lightning talk abstracts (500 words)
 * October 22 or 23, 2023: Workshop at IEEE VIS
