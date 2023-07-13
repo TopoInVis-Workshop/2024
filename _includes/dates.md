@@ -14,4 +14,4 @@ Camera-Ready Deadline
 
 ## Symposium
 
-**October 22 (Sunday afternoon), 2023**
+**October 22, 2023, afternoon**
