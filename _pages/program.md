@@ -27,11 +27,11 @@ Location: TBD
   </tr>
 </table>
 
-**Visualising Symmetry with Topology**
+**Title: Visualising Symmetry with Topology**
 
 _Professor Vanessa Robins, Australian National University_
 
-Abstract: One of my ongoing research projects involves studying periodic spatial structures such as crystalline frameworks, triply periodic minimal surfaces (TPMS) and tiling patterns [1]. Some time ago, colleagues working in soft condensed matter conjectured that a certain family of TPMS were ‘the most symmetric’ and that this is one reason for their predominance in nature [2].  I posed this question to a 3-manifold topologist and within a few months he had devised a proof and found other examples with the same symmetry but knotted [3]. Eventually, I learned the secret to their insight was a visualisation of quotient spaces associated to the crystallographic space groups [4]. This talk will explain what these quotient spaces are, what they lack and how they might help us to understand and design periodic spatial structures. 
+<b>Abstract:</b> One of my ongoing research projects involves studying periodic spatial structures such as crystalline frameworks, triply periodic minimal surfaces (TPMS) and tiling patterns [1]. Some time ago, colleagues working in soft condensed matter conjectured that a certain family of TPMS were ‘the most symmetric’ and that this is one reason for their predominance in nature [2].  I posed this question to a 3-manifold topologist and within a few months he had devised a proof and found other examples with the same symmetry but knotted [3]. Eventually, I learned the secret to their insight was a visualisation of quotient spaces associated to the crystallographic space groups [4]. This talk will explain what these quotient spaces are, what they lack and how they might help us to understand and design periodic spatial structures. 
 
 <p>[1] EPINET: Euclidean Patterns In Non-Euclidean Tilings, <a href="https://epinet.anu.edu.au">https://epinet.anu.edu.au</a>, (2006--2023)<br />
 [2] Stephen Hyde, Gerd Schroeder-Turk (et al) EPJB (2003) <br />
