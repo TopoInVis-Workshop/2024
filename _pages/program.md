@@ -5,9 +5,10 @@ title: Program
 
 # Program
 
-**Date (TBD)**
+**Sunday, October 22, 2023**
+(Australian Eastern Daylight Time, UTC+11)
 
-Location: TBD
+Venue: Room 106 @ VIS
 
 ---
 
