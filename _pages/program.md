@@ -76,17 +76,17 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
       <ul>
         <li>
            A Mathematical Foundation for the Spatial Uncertainty of Critical Points in Probabilistic Scalar Fields
-           <br><i>Jixian Li,Dan Van Boxel, Joshua A Levine</i>
+           <br><i>Dominik Vietinghoff, Michael Böttinger, Gerik Scheuermann, Christian Heine</i>
            <br/>
         </li>
         <li>
            Probabilistic Gradient-Based Extrema Tracking
-           <br><i>Florian Wetzels, Christoph Garth</i>
+           <br><i>Emma Nilsson, Jonas Lukasczyk, Talha Bin Masood, Christoph Garth, Ingrid Hotz</i>
            <br/>
         </li>
         <li>
            Sketching Merge Trees for Scientific Visualization
-           <br><i>Florian Wetzels, Christoph Garth</i>
+           <br><i>Mingzhe Li, Sourabh Palande, Lin Yan, Bei Wang</i>
            <br/>
         </li>
       </ul>
@@ -101,17 +101,17 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
       <ul>
         <li>
             Combinatorial Exploration of Morse–Smale Functions on the Sphere via Interactive Visualization
-           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Jonathan Stober, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br><i>Youjia Zhou, Janis Lazovskis, Michael J. Catanzaro, Matthew Zabka, Bei Wang</i>
            <br/>
         </li>
         <li>
            Taming Horizontal Instability in Merge Trees: On the Computation of a Comprehensive Deformation-based Edit Distance
-           <br><i>Mohit Sharma, Vijay Natarajan</i> 
+           <br><i>Florian Wetzels, Markus Anders, Christoph Garth</i> 
            <br/>
         </li>
         <li>
             Planar Symmetry Detection and Quantification using the Extended Persistent Homology Transform
-           <br><i>Roxana Bujack</i> 
+           <br><i>Nicholas A. Bermingham, Vanessa Robins, Katharine Turner</i> 
            <br/>
         </li>
       </ul>
@@ -126,17 +126,17 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
       <ul>
         <li>
             Comparing Mapper Graphs of Artificial Neuron Activations
-           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Jonathan Stober, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br><i>Youjia Zhou, Helen Jenne, Davis Brown, Madelyn R. Shapiro, Brett A. Jefferson, Cliff Joslyn, Gregory Henselman-Petrusek, Brenda Praggastis, Emilie Purvine, Bei Wang</i>
            <br/>
         </li>
         <li>
            Visualizing Topological Importance: A Class-Driven Approach
-           <br><i>Mohit Sharma, Vijay Natarajan</i> 
+           <br><i>Yu Qin, Brittany Terese Fasy, Carola Wenk, Brian Summa</i> 
            <br/>
         </li>
         <li>
             Homology-Preserving Multi-Scale Graph Skeletonization Using Mapper on Graphs
-           <br><i>Roxana Bujack</i> 
+           <br><i>Paul Rosen, Mustafa Hajij, Bei Wang</i> 
            <br/>
         </li>
       </ul>
