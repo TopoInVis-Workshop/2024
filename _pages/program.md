@@ -21,7 +21,7 @@ Venue: Room 106 @ [VIS](https://ieeevis.org/year/2023/welcome)
     </td>
   </tr>
   <tr>
-    <td>2:10pm &ndash; 2:45pm</td>
+    <td>2:10pm &ndash; 2:55pm</td>
     <td>
       <h4>Keynote Presentation
       </h4>
@@ -45,3 +45,25 @@ _Professor Vanessa Robins, Australian National University_
 <img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Vanessa.jpg" />
 Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 2000) is an Australian applied mathematician whose research interests include computational topology, image processing, and the structure of granular materials. She is an Associate Professor in the Research School of Physics at the Australian National University, where she held an ARC Future Fellowship from 2014 to 2019. In November 2020, she was interviewed by Prof Liz Bradley as part of the inaugural interview series for the AATRN (Applied Algebraic Topology Research Network).
 <br>
+
+---
+
+<table class="program">
+  <tr>
+    <td>2:55pm &ndash; 3:05pm</td>
+    <td>
+      <h4>Best Paper</h4>
+      <ul>
+        <li>
+           Multi-field Visualisation via Trait-induced Merge Trees
+           <br><i>Jochen Jankowai, Talha Bin Masood, Ingrid Hotz</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>3:05pm &ndash; 3:35pm</td>
+    <td>Break</td>
+  </tr>
