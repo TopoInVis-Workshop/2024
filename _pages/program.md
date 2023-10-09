@@ -8,19 +8,20 @@ title: Program
 **Sunday, October 22, 2023**
 (Australian Eastern Daylight Time, UTC+11)
 
-Venue: Room 106 @ VIS
+Venue: Room 106 @ [VIS](https://ieeevis.org/year/2023/welcome)
+
 
 ---
 
 <table class="program">
   <tr>
-    <td> Time: TBD </td>
+    <td>2:00pm &ndash; 2:10pm</td>
     <td>
       Opening Remarks<br/>
     </td>
   </tr>
   <tr>
-    <td> Time: TBD </td>
+    <td>2:10pm &ndash; 2:45pm</td>
     <td>
       <h4>Keynote Presentation
       </h4>
