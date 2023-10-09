@@ -67,3 +67,86 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
     <td>3:05pm &ndash; 3:35pm</td>
     <td>Break</td>
   </tr>
+
+  <tr>
+    <td>3:35pm &ndash; 4:09pm</td>
+    <td>
+      <h4>Paper Session: Uncertainty and ensembles</h4>
+      (Session Chair: TBD)
+      <ul>
+        <li>
+           A Mathematical Foundation for the Spatial Uncertainty of Critical Points in Probabilistic Scalar Fields
+           <br><i>Jixian Li,Dan Van Boxel, Joshua A Levine</i>
+           <br/>
+        </li>
+        <li>
+           Probabilistic Gradient-Based Extrema Tracking
+           <br><i>Florian Wetzels, Christoph Garth</i>
+           <br/>
+        </li>
+        <li>
+           Sketching Merge Trees for Scientific Visualization
+           <br><i>Florian Wetzels, Christoph Garth</i>
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+  <tr>
+    <td>4:09pm &ndash; 4:33pm</td>
+    <td>
+      <h4>Paper Session: Topological descriptors and comparison measures</h4>
+      (Session Chair: TBD)
+      <ul>
+        <li>
+            Combinatorial Exploration of Morse–Smale Functions on the Sphere via Interactive Visualization
+           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Jonathan Stober, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br/>
+        </li>
+        <li>
+           Taming Horizontal Instability in Merge Trees: On the Computation of a Comprehensive Deformation-based Edit Distance
+           <br><i>Mohit Sharma, Vijay Natarajan</i> 
+           <br/>
+        </li>
+        <li>
+            Planar Symmetry Detection and Quantification using the Extended Persistent Homology Transform
+           <br><i>Roxana Bujack</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+  <tr>
+    <td>4:33pm &ndash; 4:57pm</td>
+    <td>
+      <h4>Paper Session: TDA, ML, and Graphs</h4>
+      (Session Chair: TBD)
+      <ul>
+        <li>
+            Comparing Mapper Graphs of Artificial Neuron Activations
+           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Jonathan Stober, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br/>
+        </li>
+        <li>
+           Visualizing Topological Importance: A Class-Driven Approach
+           <br><i>Mohit Sharma, Vijay Natarajan</i> 
+           <br/>
+        </li>
+        <li>
+            Homology-Preserving Multi-Scale Graph Skeletonization Using Mapper on Graphs
+           <br><i>Roxana Bujack</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+  <tr>
+    <td>4:57pm &ndash; 5:00pm</td>
+    <td>
+      <h4>Closing</h4>
+<!--       (Session Chair: TDA) -->
+    </td>
+  </tr> 
