@@ -71,7 +71,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   <tr>
     <td>3:35pm &ndash; 4:09pm</td>
     <td>
-      <h4>Paper Session: Uncertainty and ensembles</h4>
+      <h4>Paper Session: Uncertainty and Ensembles</h4>
       (Session Chair: TBD)
       <ul>
         <li>
@@ -96,7 +96,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   <tr>
     <td>4:09pm &ndash; 4:33pm</td>
     <td>
-      <h4>Paper Session: Topological descriptors and comparison measures</h4>
+      <h4>Paper Session: Topological Descriptors and Comparison Measures</h4>
       (Session Chair: TBD)
       <ul>
         <li>
