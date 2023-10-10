@@ -21,7 +21,7 @@ Venue: Room 106 @ [VIS](https://ieeevis.org/year/2023/welcome)
     </td>
   </tr>
   <tr>
-    <td>2:10pm &ndash; 2:55pm</td>
+    <td>2:10pm &ndash; 3:00pm</td>
     <td>
       <h4>Keynote Presentation
       </h4>
@@ -50,9 +50,9 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
 
 <table class="program">
   <tr>
-    <td>2:55pm &ndash; 3:05pm</td>
+    <td>3:00pm &ndash; 3:10pm</td>
     <td>
-      <h4>Best Paper</h4>
+      <h4>Best Paper Presentation</h4>
       <ul>
         <li>
            Multi-field Visualisation via Trait-induced Merge Trees
@@ -64,12 +64,12 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   </tr>
 
   <tr>
-    <td>3:05pm &ndash; 3:35pm</td>
+    <td>3:15pm &ndash; 3:45pm</td>
     <td>Break</td>
   </tr>
 
   <tr>
-    <td>3:35pm &ndash; 4:09pm</td>
+    <td>3:45pm &ndash; 4:06pm</td>
     <td>
       <h4>Paper Session: Uncertainty and Ensembles</h4>
       (Session Chair: TBD)
@@ -94,7 +94,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   </tr>  
 
   <tr>
-    <td>4:09pm &ndash; 4:33pm</td>
+    <td>4:06pm &ndash; 4:27pm</td>
     <td>
       <h4>Paper Session: Topological Descriptors and Comparison Measures</h4>
       (Session Chair: TBD)
@@ -119,7 +119,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   </tr>  
 
   <tr>
-    <td>4:33pm &ndash; 4:57pm</td>
+    <td>4:27pm &ndash; 4:48pm</td>
     <td>
       <h4>Paper Session: TDA, ML, and Graphs</h4>
       (Session Chair: TBD)
@@ -144,7 +144,14 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
   </tr>  
 
   <tr>
-    <td>4:57pm &ndash; 5:00pm</td>
+    <td>4:48pm &ndash; 4:55pm</td>
+    <td>
+      <h4>Lightning talks</h4>
+<!--       (Session Chair: TDA) -->
+    </td>
+  </tr> 
+  <tr>
+    <td>4:55pm &ndash; 5:00pm</td>
     <td>
       <h4>Closing</h4>
 <!--       (Session Chair: TDA) -->
