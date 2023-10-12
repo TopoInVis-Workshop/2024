@@ -72,7 +72,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
     <td>3:45pm &ndash; 4:06pm</td>
     <td>
       <h4>Paper Session: Uncertainty and Ensembles</h4>
-      (Session Chair: TBD)
+      (Session Chair: Brian Summa)
       <ul>
         <li>
            A Mathematical Foundation for the Spatial Uncertainty of Critical Points in Probabilistic Scalar Fields
@@ -97,7 +97,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
     <td>4:06pm &ndash; 4:27pm</td>
     <td>
       <h4>Paper Session: Topological Descriptors and Comparison Measures</h4>
-      (Session Chair: TBD)
+      (Session Chair: Filip Sadlo)
       <ul>
         <li>
             Combinatorial Exploration of Morse–Smale Functions on the Sphere via Interactive Visualization
@@ -122,7 +122,7 @@ Vanessa Robins (Ph.D., University of Colorado, Boulder, Applied Mathematics, 200
     <td>4:27pm &ndash; 4:48pm</td>
     <td>
       <h4>Paper Session: TDA, ML, and Graphs</h4>
-      (Session Chair: TBD)
+      (Session Chair: Julien Tierny)
       <ul>
         <li>
             Comparing Mapper Graphs of Artificial Neuron Activations
