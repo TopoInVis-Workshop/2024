@@ -10,7 +10,7 @@ title: Submission Instructions
 The paper submission portal is now open! For submission, go to the 
 [PCS submission portal](https://new.precisionconference.com/vgtc).
 Create an account or login to your existing account. Then, go to the Submissions 
-tab and select Society 'VGTC', Conference 'VIS 2023' and Track 'VIS 2023 TopoInVis' 
+tab and select Society 'VGTC', Conference 'VIS 2024' and Track 'VIS 2024 TopoInVis' 
 from the drop-down options. 
 
 TopoInVis is accepting regular papers in the 
@@ -30,6 +30,5 @@ For submission of abstracts for early-career lightning talks,  please follow [th
 
 {::options parse_block_html="true" /}
 
-October 8, 2023, 11:59 PM (AOE)
-: Early career talk abstract submission deadline
+TBD
 
