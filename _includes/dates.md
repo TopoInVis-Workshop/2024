@@ -1,17 +1,17 @@
 # Important Dates
 
 Paper Abstracts
-: TBD
+: June 14, 2024
 
 Paper Submissions
-: TBD
+: June 21, 2024
 
 Author Notifications
-: TBD
+: July 31, 2024
 
-Camera-Ready Deadline
-: TBD
+Posters
+: August 7, 2024
 
-## Symposium
+## IEEE VIS
 
-**TBD**
+**October 13-18, 2024**
