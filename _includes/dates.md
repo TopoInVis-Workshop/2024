@@ -4,10 +4,10 @@ Paper Abstracts
 : June 14, 2024
 
 Paper Submissions
-: June 21, 2024
+: <del>June 21, 2024</del> June 28, 2024
 
 Author Notifications
-: July 31, 2024
+: <del>July 31, 2024</del> TBD
 
 Posters
 : August 7, 2024
