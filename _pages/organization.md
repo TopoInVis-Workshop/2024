@@ -100,13 +100,13 @@ Talha Bin Masood
 Vijay	Natarajan
 : Indian Institute of Science, Bangalore
 
-Vanessa Robins
-: Australian National University
-
 </div>
   
 <div class="right">
 ## &nbsp;
+
+Vanessa Robins
+: Australian National University
   
 Martina Scolamiero
 : KTH Royal Institute of Technology
