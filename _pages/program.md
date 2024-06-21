@@ -25,7 +25,7 @@ Venue: TBD @ [VIS](https://ieeevis.org/year/2024/welcome)
 
 **Title: Topological Data Analysis and Visualization in Biological Images and Videos**
 
-_Professor Vanessa Robins, Australian National University_
+_Professor Peter Bubenik, University of Florida_
 
 <b>Abstract:</b> Topological data analysis (TDA) uses methods from geometry, topology, algebra and analysis to learn from the shape of data. Since the methods are mathematically sophisticated it is crucial to have good visualizations that allow scientists and engineers to interpret its results. I will introduce some aspects of TDA in the context of three applications to biological images and videos. In the first, we use TDA to capture the the structure of the actin skeleton in cells. In the second, we use TDA and representative cycles to produce synthetic videos of characteristic motions of an important biological organism, C. elegans. In the third, we apply TDA to recordings on the brain activity of C. elegans and determine the neurons most closely related to the detected topological signal.
 
