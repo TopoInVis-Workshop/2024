@@ -10,7 +10,7 @@ Author Notifications
 : July 31, 2024
 
 Posters
-: August 7, 2024
+: <del>August 7, 2024</del> August 31, 2024
 
 ## IEEE VIS
 
