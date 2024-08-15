@@ -8,3 +8,9 @@ title: Accepted Papers
 {::options parse_block_html="true" /}
 
 TBD
+
+# List of accepted posters
+
+{::options parse_block_html="true" /}
+
+TBD
