@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accepted Papers
+title: Accepted Papers/Posters
 ---
 
 # List of accepted papers
