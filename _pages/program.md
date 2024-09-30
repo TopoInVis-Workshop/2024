@@ -117,35 +117,9 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
       </ul>
     </td>
   </tr>  
-
-  <tr>
-    <td>4:27pm &ndash; 4:48pm</td>
-    <td>
-      <h4>Paper Session: TDA, ML, and Graphs</h4>
-      (Session Chair: Julien Tierny)
-      <ul>
-        <li>
-            Comparing Mapper Graphs of Artificial Neuron Activations
-           <br><i>Youjia Zhou, Helen Jenne, Davis Brown, Madelyn R. Shapiro, Brett A. Jefferson, Cliff Joslyn, Gregory Henselman-Petrusek, Brenda Praggastis, Emilie Purvine, Bei Wang</i>
-           <br/>
-        </li>
-        <li>
-           Visualizing Topological Importance: A Class-Driven Approach
-           <br><i>Yu Qin, Brittany Terese Fasy, Carola Wenk, Brian Summa</i> 
-           <br/>
-        </li>
-        <li>
-            Homology-Preserving Multi-Scale Graph Skeletonization Using Mapper on Graphs
-           <br><i>Paul Rosen, Mustafa Hajij, Bei Wang</i> 
-           <br/>
-        </li>
-      </ul>
-    </td>
-  </tr>  
-
+ <tr>
     <td>4:25pm &ndash; 4:30pm</td>
     <td>
       <h4>Closing</h4>
-<!--       (Session Chair: TDA) -->
     </td>
   </tr> 
