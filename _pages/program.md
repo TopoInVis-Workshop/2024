@@ -99,7 +99,7 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
   </tr>  
 
   <tr>
-    <td>4:06pm &ndash; 4:27pm</td>
+    <td>4:15pm &ndash; 4:25pm</td>
     <td>
       <h4>Poster Presentations</h4>
       (Session Chair: TBD)
