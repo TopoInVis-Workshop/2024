@@ -12,6 +12,6 @@ Author Notifications
 Posters
 : <del>August 7, 2024</del> August 31, 2024
 
-## IEEE VIS
+## Symposium
 
-**October 13-18, 2024**
+**October 14, 2024, afternoon**
