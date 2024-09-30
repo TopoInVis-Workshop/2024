@@ -29,4 +29,8 @@ title: Accepted Papers/Posters
 
 {::options parse_block_html="true" /}
 
-TBD
+1. Exploring Relative Geometric Positions of Isosurfaces in Multi-Fields
+: Akito Fujii, Daisuke Sakurai
+
+2. Sublevel Set Persistent Homology for Distance-based Classification of 1-Dimensional Time Series
+: Caleb Lees, Xiaoxiao Sun, Paul Sajda, Michael Tolston
