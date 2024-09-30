@@ -33,9 +33,4 @@ Poster contributions should adhere to the [IEEE VIS Guidelines](https://ieeevis.
 
 For submission of abstracts for early-career lightning talks,  please follow [this link](https://forms.gle/21SKStEjqUTUC1WL6) to submit the abstract and answer a few questions about yourself.
 
-# Important Dates
-
-{::options parse_block_html="true" /}
-
-TBD
 
