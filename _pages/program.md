@@ -15,7 +15,13 @@ Venue: TBD @ [VIS](https://ieeevis.org/year/2024/welcome)
 
 <table class="program">
   <tr>
-    <td>time: TBD</td>
+    <td>1:30pm &ndash; 1:40pm</td>
+    <td>
+      Opening Remarks<br/>
+    </td>
+  </tr>
+  <tr>
+    <td>1:40pm &ndash; 2:35pm</td>
     <td>
       <h4>Keynote Presentation
       </h4>
@@ -35,3 +41,111 @@ _Professor Peter Bubenik, University of Florida_
 <img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Peter.jpg" />
 Peter Bubenik develops new tools for summarizing and visualizing large, complex, high-dimensional data by combining ideas from algebraic topology and machine learning. Furthermore, he works with collaborators to use these ideas to analyze data. He obtained his Ph.D. at the University of Toronto in 2003 and was a postdoc at the Ecole Polytechnique Federale de Lausanne (EPFL) in Switzerland from 2003 to 2005. From 2005 to 2015 he was faculty at Cleveland State University and since 2015 he has been at the University of Florida. From 2014 to 2017 he was the founding director of the Applied Algebraic Topology Research Network (AATRN) and since then has served on its advisory board.
 
+---
+
+<table class="program">
+  <tr>
+    <td>2:35pm &ndash; 2:50pm</td>
+    <td>
+      <h4>Best Paper Presentation</h4>
+      <ul>
+        <li>
+           Efficient representation and analysis for a large tetrahedral mesh using Apache Spark
+           <br><i>Yuehui Qian, Guoxi Liu, Federico Iuricich, Leila De Floriani</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>2:50pm &ndash; 3:15pm</td>
+    <td>Break</td>
+  </tr>
+
+  <tr>
+    <td>3:15pm &ndash; 4:15pm</td>
+    <td>
+      <h4>Paper Session</h4>
+      (Session Chair: TBD)
+      <ul>
+        <li>
+           Critical Point Extraction from Multivariate Functional Approximation
+           <br><i>Guanqun Ma, David Lenz, Tom Peterka, Hanqi Guo, Bei Wang</i>
+           <br/>
+        </li>
+        <li>
+           Topological Simplification of Jacobi Sets for Piecewise-Linear Bivariate 2D Scalar Fields
+           <br><i>Felix Raith, Gerik Scheuermann, Christian Heine</i>
+           <br/>
+        </li>
+        <li>
+           Revisiting Accurate Geometry for the Morse-Smale Complexes
+           <br><i>Son Le Thanh, Michael Ankele, Tino Weinkauf</i>
+           <br/>
+        </li>
+        <li>
+           Multi-scale Cycle Tracking in Dynamic Planar Graphs
+           <br><i>Farhan Rasheed, Abrar Naseer, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
+           <br/>
+        </li>
+        <li>
+           Asymptotic Topology of 3D Linear Symmetric Tensor Fields
+           <br><i>Xinwei Lin, Yue Zhang, Eugene Zhang</i>
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+  <tr>
+    <td>4:06pm &ndash; 4:27pm</td>
+    <td>
+      <h4>Poster Presentations</h4>
+      (Session Chair: TBD)
+      <ul>
+        <li>
+           Exploring Relative Geometric Positions of Isosurfaces in Multi-Fields
+           <br><i>Akito Fujii, Daisuke Sakurai</i>
+           <br/>
+        </li>
+        <li>
+           Sublevel Set Persistent Homology for Distance-based Classification of 1-Dimensional Time Series
+           <br><i>Caleb Lees, Xiaoxiao Sun, Paul Sajda, Michael Tolston</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+  <tr>
+    <td>4:27pm &ndash; 4:48pm</td>
+    <td>
+      <h4>Paper Session: TDA, ML, and Graphs</h4>
+      (Session Chair: Julien Tierny)
+      <ul>
+        <li>
+            Comparing Mapper Graphs of Artificial Neuron Activations
+           <br><i>Youjia Zhou, Helen Jenne, Davis Brown, Madelyn R. Shapiro, Brett A. Jefferson, Cliff Joslyn, Gregory Henselman-Petrusek, Brenda Praggastis, Emilie Purvine, Bei Wang</i>
+           <br/>
+        </li>
+        <li>
+           Visualizing Topological Importance: A Class-Driven Approach
+           <br><i>Yu Qin, Brittany Terese Fasy, Carola Wenk, Brian Summa</i> 
+           <br/>
+        </li>
+        <li>
+            Homology-Preserving Multi-Scale Graph Skeletonization Using Mapper on Graphs
+           <br><i>Paul Rosen, Mustafa Hajij, Bei Wang</i> 
+           <br/>
+        </li>
+      </ul>
+    </td>
+  </tr>  
+
+    <td>4:25pm &ndash; 4:30pm</td>
+    <td>
+      <h4>Closing</h4>
+<!--       (Session Chair: TDA) -->
+    </td>
+  </tr> 
