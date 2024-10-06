@@ -92,7 +92,7 @@ Wiebke Köpp
 : Lawrence Berkeley National Laboratory
 
 Vitaliy Kurlin
-：University of Liverpool
+: University of Liverpool
 
 Talha Bin Masood
 : Linköping University
@@ -124,7 +124,7 @@ Julien Tierny
 : Sorbonne Universite
 
 Hubert Wagner
-：University of Florida
+: University of Florida
   
 Bei Wang 
 : University of Utah
