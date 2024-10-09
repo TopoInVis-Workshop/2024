@@ -67,7 +67,7 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
     <td>3:15pm &ndash; 4:15pm</td>
     <td>
       <h4>Paper Session</h4>
-      (Session Chair: TBD)
+      (Session Chair: Holger Theisel)
       <ul>
         <li>
            Critical Point Extraction from Multivariate Functional Approximation
