@@ -8,7 +8,7 @@ title: Program
 **Monday, October 14, 2024**
 (Eastern Time, UTC−05:00)
 
-Venue: TBD @ [VIS](https://ieeevis.org/year/2024/welcome)
+Venue: on line @ [VIS](https://ieeevis.org/year/2024/welcome)
 
 
 ---
@@ -102,7 +102,7 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
     <td>4:15pm &ndash; 4:25pm</td>
     <td>
       <h4>Poster Presentations</h4>
-      (Session Chair: TBD)
+      (Session Chair: Federico Iuricich)
       <ul>
         <li>
            Exploring Relative Geometric Positions of Isosurfaces in Multi-Fields
