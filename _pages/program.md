@@ -25,8 +25,8 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2024/welcome)
     <td>12:10pm &ndash; 1:05pm</td>
     <td>
       <h4>Keynote Presentation
-      (Session Chair: Guoning Chen)
       </h4>
+      (Session Chair: Guoning Chen)
     </td>
   </tr>
 </table>
