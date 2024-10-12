@@ -72,27 +72,27 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
       <ul>
         <li>
            Critical Point Extraction from Multivariate Functional Approximation
-           <br><i>Guanqun Ma, David Lenz, Tom Peterka, Hanqi Guo, Bei Wang</i>
+           <br><i><b>Guanqun Ma</b>, David Lenz, Tom Peterka, Hanqi Guo, Bei Wang</i>
            <br/>
         </li>
         <li>
            Topological Simplification of Jacobi Sets for Piecewise-Linear Bivariate 2D Scalar Fields
-           <br><i>Felix Raith, Gerik Scheuermann, Christian Heine</i>
+           <br><i><b>Felix Raith</b>, Gerik Scheuermann, Christian Heine</i>
            <br/>
         </li>
         <li>
            Revisiting Accurate Geometry for the Morse-Smale Complexes
-           <br><i>Son Le Thanh, Michael Ankele, Tino Weinkauf</i>
+           <br><i><b>Son Le Thanh</b>, Michael Ankele, Tino Weinkauf</i>
            <br/>
         </li>
         <li>
            Multi-scale Cycle Tracking in Dynamic Planar Graphs
-           <br><i>Farhan Rasheed, Abrar Naseer, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
+           <br><i><b>Farhan Rasheed</b>, Abrar Naseer, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
            <br/>
         </li>
         <li>
            Asymptotic Topology of 3D Linear Symmetric Tensor Fields
-           <br><i>Xinwei Lin, Yue Zhang, Eugene Zhang</i>
+           <br><i>Xinwei Lin, <b>Yue Zhang</b>, Eugene Zhang</i>
            <br/>
         </li>
       </ul>
@@ -107,12 +107,12 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
       <ul>
         <li>
            Exploring Relative Geometric Positions of Isosurfaces in Multi-Fields
-           <br><i>Akito Fujii, Daisuke Sakurai</i>
+           <br><i><b>Akito Fujii</b>, Daisuke Sakurai</i>
            <br/>
         </li>
         <li>
            Sublevel Set Persistent Homology for Distance-based Classification of 1-Dimensional Time Series
-           <br><i>Caleb Lees, Xiaoxiao Sun, Paul Sajda, Michael Tolston</i> 
+           <br><i><b>Caleb Lees</b>, Xiaoxiao Sun, Paul Sajda, Michael Tolston</i> 
            <br/>
         </li>
       </ul>
