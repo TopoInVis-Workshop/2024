@@ -53,7 +53,7 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
       (Session Chair: Divya Banesh)
       <ul>
            Efficient representation and analysis for a large tetrahedral mesh using Apache Spark
-           <br><b>Yuehui Qian</b>, Guoxi Liu, Federico Iuricich, Leila De Floriani
+           <br><i><b>Yuehui Qian</b>, Guoxi Liu, Federico Iuricich, Leila De Floriani</i>
            <br/>
       </ul>
     </td>
