@@ -15,15 +15,17 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2024/welcome)
 
 <table class="program">
   <tr>
-    <td>1:30pm &ndash; 1:40pm</td>
+    <td>12:00pm &ndash; 12:10pm</td>
     <td>
       Opening Remarks<br/>
+      Guoning Chen
     </td>
   </tr>
   <tr>
-    <td>1:40pm &ndash; 2:35pm</td>
+    <td>12:10pm &ndash; 1:05pm</td>
     <td>
       <h4>Keynote Presentation
+      (Session Chair: Guoning Chen)
       </h4>
     </td>
   </tr>
@@ -45,9 +47,10 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
 
 <table class="program">
   <tr>
-    <td>2:35pm &ndash; 2:50pm</td>
+    <td>1:05pm &ndash; 1:20pm</td>
     <td>
       <h4>Best Paper Presentation</h4>
+      (Session Chair: Divya Banesh)
       <ul>
         <li>
            Efficient representation and analysis for a large tetrahedral mesh using Apache Spark
@@ -59,12 +62,12 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
   </tr>
 
   <tr>
-    <td>2:50pm &ndash; 3:15pm</td>
+    <td>1:20pm &ndash; 1:45pm</td>
     <td>Break</td>
   </tr>
 
   <tr>
-    <td>3:15pm &ndash; 4:15pm</td>
+    <td>1:45pm &ndash; 2:45pm</td>
     <td>
       <h4>Paper Session</h4>
       (Session Chair: Holger Theisel)
@@ -99,7 +102,7 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
   </tr>  
 
   <tr>
-    <td>4:15pm &ndash; 4:25pm</td>
+    <td>2:45pm &ndash; 2:55pm</td>
     <td>
       <h4>Poster Presentations</h4>
       (Session Chair: Federico Iuricich)
@@ -118,8 +121,9 @@ Peter Bubenik develops new tools for summarizing and visualizing large, complex,
     </td>
   </tr>  
  <tr>
-    <td>4:25pm &ndash; 4:30pm</td>
+    <td>2:55pm &ndash; 3:00pm</td>
     <td>
       <h4>Closing</h4>
+      Guoning Chen
     </td>
   </tr> 
